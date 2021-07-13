@@ -3,43 +3,43 @@
 <p align="center">
 
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="26px">
+    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="30px">
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="30px">
   </a>
   
   <a href="https://reactjs.org/">
-    <img src="https://img.icons8.com/color/240/000000/react-native.png" alt="react" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/react-native.png" alt="react" width="30px">
   </a>
   
   <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/color/240/000000/python.png" alt="python" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/python.png" alt="python" width="30px">
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="30px">
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="30px">
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img src="https://img.icons8.com/color/240/000000/nodejs.png" alt="NodeJs" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/nodejs.png" alt="NodeJs" width="30px">
   </a>
   
   <a href="https://docs.microsoft.com/en-us/windows/terminal/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="26px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30px">
   </a>
   
   <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="26px">
+    <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="30px">
   </a>
   
   <a href="https://www.linux.org/">
-    <img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width="26px">
+    <img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width="30px">
   </a>
   
 </p>
