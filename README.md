@@ -7,7 +7,7 @@
 <p align="center">
 
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="30px">
+    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="26px">
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
