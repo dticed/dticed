@@ -1,5 +1,3 @@
-<h2 align="center">About me</h2>
-
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
@@ -46,7 +44,7 @@
   
 </p>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at :guitar:</h2>
 
 <p align="center">
 
