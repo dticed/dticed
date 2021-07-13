@@ -70,6 +70,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" />
 </p>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=dticed&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=dticed&layout=compact&theme=radical" />
-</a>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" />
+</p>
+
