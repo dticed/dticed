@@ -61,7 +61,7 @@
   </a>
   
   <a href="https://twitter.com/dticed">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Flogo-de-twitter-png-1.png&f=1&nofb=1" alt="twitter" height="30" width="40">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Flogo-de-twitter-png-1.png&f=1&nofb=1" alt="twitter" height="30" width="36">
   </a>
   
 </p>
