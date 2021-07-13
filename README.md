@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# Lucas Pierre
-
 <h2 align="center">About me</h2>
 
 <h2 align="center">You can reach me at :alien:</h2>
