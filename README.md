@@ -2,12 +2,23 @@
 
 ### Languages and Tools:
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
+
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="30px">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="26px">
+  </a>
+  
+</p>
+
+<h2 align="center">Github stats :bar_chart:</h2>
 
 
-[<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
