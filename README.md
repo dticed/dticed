@@ -68,8 +68,9 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" />
-
-<img src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=dticed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="dticed :: Top Langs" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" />
+  <img src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=dticed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="dticed :: Top Langs" />
+</p>
 
 
