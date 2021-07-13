@@ -51,15 +51,15 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/lucas-pierre-de-alencar-0a458b150/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="dticed's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/9370002/dticed">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="dticed's Stack Overflow Profile" height="30" width="30">
   </a>
   
   <a href="https://gitlab.com/dticed">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="dticed's GitLab Profile" height="30" width="30">
   </a>
   
 </p>
@@ -68,4 +68,4 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" /></p>
