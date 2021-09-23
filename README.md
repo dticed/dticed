@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="typescript" width="30px">
+    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="typescript" width="20px">
   </a>
   
   <a href="https://reactjs.org/">
