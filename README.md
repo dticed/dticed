@@ -7,11 +7,11 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" alt="javascript" width="30px">
+    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="30px">
   </a>
   
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="typescript" width="20px">
+    <img src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" alt="typescript" width="20px">
   </a>
   
   <a href="https://reactjs.org/">
