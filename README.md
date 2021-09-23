@@ -7,7 +7,7 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" width="30px">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="30px">
   </a>
   
   <a href="https://www.typescriptlang.org/">
