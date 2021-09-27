@@ -30,10 +30,6 @@
     <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="30px">
   </a>
   
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.icons8.com/color/240/000000/nodejs.png" alt="NodeJs" width="30px">
-  </a>
-  
   <a href="https://docs.microsoft.com/en-us/windows/terminal/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30px">
   </a>
