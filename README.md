@@ -14,7 +14,6 @@
 ---
 
 ### 🚀 About Me
-- 🛠️ Currently engineering SaaS solutions for aquaculture management at **Jungle Melody**.
 - 🔍 Passionate about **Advanced Debugging** and root-cause analysis (Contributor to `bits-ui`).
 - 🏗️ Strong background in full-stack architectures: **PHP, MySQL, Redis (Cache-Aside Pattern)**.
 - 🐳 Infrastructure enthusiast: **Docker, Nginx, Proxmox, and Cloudflare**.
