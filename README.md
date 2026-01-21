@@ -11,15 +11,6 @@
   </a>
 </p>
 
----
-
-### 🚀 About Me
-- 🔍 Passionate about **Advanced Debugging** and root-cause analysis (Contributor to `bits-ui`).
-- 🏗️ Strong background in full-stack architectures: **PHP, MySQL, Redis (Cache-Aside Pattern)**.
-- 🐳 Infrastructure enthusiast: **Docker, Nginx, Proxmox, and Cloudflare**.
-
----
-
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
