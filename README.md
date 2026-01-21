@@ -1,76 +1,83 @@
+<h1 align="center">Hi, I'm Lucas Pierre 👋</h1>
+
+<p align="center">
+  <strong>Software Engineer | Svelte & SvelteKit Specialist | Open Source Contributor</strong><br>
+  Focused on building scalable SaaS applications and high-performance systems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dticed">
+    <img src="https://img.shields.io/badge/Main%20Stack-SvelteKit%20%2B%20TypeScript-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" alt="Main Stack">
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+- 🛠️ Currently engineering SaaS solutions for aquaculture management at **Jungle Melody**.
+- 🔍 Passionate about **Advanced Debugging** and root-cause analysis (Contributor to `bits-ui`).
+- 🏗️ Strong background in full-stack architectures: **PHP, MySQL, Redis (Cache-Aside Pattern)**.
+- 🐳 Infrastructure enthusiast: **Docker, Nginx, Proxmox, and Cloudflare**.
+
+---
+
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code" width="30px">
+  <a href="https://svelte.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="35px">
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="30px">
-  </a>
-  
   <a href="https://www.typescriptlang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="30px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px">
   </a>
   
-  <a href="https://reactjs.org/">
-    <img src="https://img.icons8.com/color/240/000000/react-native.png" alt="react" width="30px">
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35px">
   </a>
-  
-  <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/color/240/000000/python.png" alt="python" width="30px">
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35px">
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.icons8.com/color/240/000000/html-5.png" alt="html5" width="30px">
+  <a href="https://redis.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="35px">
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.icons8.com/color/240/000000/css3.png" alt="css3" width="30px">
+
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35px">
   </a>
-  
-  <a href="https://docs.microsoft.com/en-us/windows/terminal/">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30px">
+  <a href="https://nginx.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="35px">
   </a>
-  
-  <a href="https://www.microsoft.com/en-us/windows">
-    <img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="Windows" width="30px">
-  </a>
-  
   <a href="https://www.linux.org/">
-    <img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width="30px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35px">
   </a>
-  
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35px">
+  </a>
 </p>
 
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/lucas-pierre-de-alencar-0a458b150/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="dticed's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
   </a>
-
   <a href="https://stackoverflow.com/users/9370002/dticed">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="dticed's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" height="30" width="30">
   </a>
-  
   <a href="https://gitlab.com/dticed">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="dticed's GitLab Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="30">
   </a>
-  
-  <a href="https://twitter.com/dticed">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Flogo-de-twitter-png-1.png&f=1&nofb=1" alt="twitter" height="30" width="34">
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" height="30" width="30">
   </a>
-  
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dticed&langs_count=10&theme=tokyonight&layout=compact" alt="dticed :: Top Langs" />
-  <img src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=dticed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="dticed :: Top Langs" />
+  <img src="https://github-readme-stats-sabesansathananthan.vercel.app/api?username=dticed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="dticed :: Stats" />
 </p>
-
-
