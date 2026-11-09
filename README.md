@@ -60,9 +60,6 @@
   <a href="https://gitlab.com/dticed">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="30">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" height="30" width="30">
-  </a>
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
