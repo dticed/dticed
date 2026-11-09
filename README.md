@@ -51,7 +51,7 @@
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-pierre-de-alencar-0a458b150/">
+  <a href="https://linkedin.com/in/lucaspierrealencar">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
   </a>
   <a href="https://stackoverflow.com/users/9370002/dticed">
