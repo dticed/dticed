@@ -1,63 +1,30 @@
 <h1 align="center">Hi, I'm Lucas Pierre 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Svelte & SvelteKit Specialist | Open Source Contributor</strong><br>
-  Focused on building scalable SaaS applications and high-performance systems.
+  <strong>Frontend-leaning Full-Stack Engineer · TypeScript · Svelte/SvelteKit · Tailwind</strong><br>
+  Based in Portugal · Open to remote Frontend and Full-Stack roles
 </p>
 
 <p align="center">
-  <a href="https://github.com/dticed">
-    <img src="https://img.shields.io/badge/Main%20Stack-SvelteKit%20%2B%20TypeScript-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" alt="Main Stack">
-  </a>
+  <a href="https://lucaspierre.com">lucaspierre.com</a> ·
+  <a href="https://linkedin.com/in/lucaspierrealencar">LinkedIn</a> ·
+  <a href="mailto:lucaspierrealencar@gmail.com">lucaspierrealencar@gmail.com</a>
 </p>
 
-<h2 align="center">Languages and Tools</h2>
+## About me
 
-<p align="center">
-  <a href="https://svelte.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="35px">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px">
-  </a>
-  
-  <a href="https://www.php.net/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35px">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35px">
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="35px">
-  </a>
+I'm a frontend-leaning full-stack engineer with 4+ years building production web applications, including 2+ years focused on TypeScript and SvelteKit.
 
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35px">
-  </a>
-  <a href="https://nginx.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="35px">
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35px">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35px">
-  </a>
-</p>
+- 🧱 **Type-safe UI and data layers.** I build reusable component libraries and data-access layers with SvelteKit, Shadcn, Zod and TanStack. I use patterns like Result types so error handling stays predictable across services.
+- 🐛 **Open source.** A production SSR failure led me to a circular dependency in the core of [bits-ui](https://github.com/huntabyte/bits-ui), the library behind shadcn-svelte. I [fixed it upstream](PR_LINK_HERE) for everyone using it.
+- ⚙️ **Database to pixel.** I also handle the backend: REST API design, Redis caching, PHP and MySQL, plus infrastructure on Docker, Nginx, Proxmox and Cloudflare.
 
-<h2 align="center">You can reach me at</h2>
+## Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/lucaspierrealencar">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
-  </a>
-  <a href="https://stackoverflow.com/users/9370002/dticed">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" height="30" width="30">
-  </a>
-  <a href="https://gitlab.com/dticed">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30" width="30">
-  </a>
-</p>
+- **Frontend:** TypeScript · JavaScript · Svelte/SvelteKit · Tailwind CSS · Shadcn · Zod · TanStack
+- **Backend:** REST APIs · PHP · MySQL · Redis
+- **Infrastructure:** Docker · Nginx · Proxmox · Cloudflare · Linux
+
+## Elsewhere
+
+[Stack Overflow](https://stackoverflow.com/users/9370002/dticed) · [GitLab](https://gitlab.com/dticed)
